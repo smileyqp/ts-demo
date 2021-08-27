@@ -1,6 +1,4 @@
-[](https://github.com/smileyqp/ts-demo/blob/master/%E8%B4%AA%E5%90%83%E8%9B%87ts.png)
-
-
+![](https://github.com/smileyqp/ts-demo/blob/master/%E8%B4%AA%E5%90%83%E8%9B%87ts.png)
 
 
 ![](https://img-blog.csdnimg.cn/60da40fee5c04581b2a0d03b9a5b159d.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0MjczMDU5,size_16,color_FFFFFF,t_70)
